@@ -47,7 +47,6 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 5️⃣ Run the Application
 python app.py
 🔹 Open the app in your browser: http://127.0.0.1:5000/
-
 🎯 How to Use?
 1️⃣ Upload an Image or Text File 📤
 2️⃣ OCR Extracts Text from Images 🔍
