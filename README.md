@@ -1,3 +1,6 @@
+Video Link : https://drive.google.com/file/d/17UzYC-UXX1ZLbFjSPtKr3aqCIY5tR2ox/view?usp=sharing
+
+
 📝 Document Classification using OCR & Naïve Bayes
 📌 Project Overview
 This project is a Flask-based web application that allows users to upload images or text files, extract text using OCR (Tesseract), classify the document using a Naïve Bayes model, and display the classification result.
