@@ -38,7 +38,7 @@ cd Document-Classification-OCR
 python -m venv venv
 source venv/bin/activate   # On macOS/Linux
 venv\Scripts\activate      # On Windows
-3️⃣ Install Dependencies
+3️⃣ Install Dependencies 
 pip install -r requirements.txt
 4️⃣ Download & Install Tesseract-OCR
 🔗 Download: Tesseract-OCR
