@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classification Result</title>
+</head>
+<body>
+    <h1>Classification Result</h1>
+    <p><strong>Predicted Label:</strong> {{ label }}</p>
+    <h2>Extracted Text:</h2>
+    <p>{{ text }}</p>
+    <a href="{{ url_for('index') }}">Upload Another Document</a>
+</body>
+</html>
